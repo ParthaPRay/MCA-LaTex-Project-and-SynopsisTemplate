@@ -4,7 +4,7 @@ Sikkim University MCA project and Synopsis LaTex template.
 
 # Synopsis
 
-Download https://github.com/ParthaPRay/MCA-LaTex-Project-and-SynopsisTemplate/blob/main/MCA%20Project%20Synopsis%20LaTex.zip
+Download https://github.com/ParthaPRay/MCA-LaTex-Project-and-SynopsisTemplate/blob/main/MCA%20Project%20Synopsis.zip
 
 Modify accordingly.
 
